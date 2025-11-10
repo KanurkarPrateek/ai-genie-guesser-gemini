@@ -1,0 +1,5 @@
+{
+  "name": "AI Genie Guesser",
+  "description": "An Akinator-style AI guessing game where the system tries to guess what the user is thinking (a person, object, movie, or animal) by asking adaptive yes/no/maybe questions.",
+  "requestFramePermissions": []
+}
